@@ -11,7 +11,8 @@ li.p {
 }    
 h1, h2 { 
     font-family: 'Roboto Condensed', 'Helvetica Neue', Helvetica, Arial, sans-serif; 
+
     
     }
-    h1 { font-size:2.5em; }
+    h1 { font-size:2.5em; margin-left:-1pt; }
     h2 { font-size:1.5em; }

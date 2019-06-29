@@ -62,10 +62,11 @@ p,ul,h2 {
 }  
 h1 {
     margin: 1em 0 1em 0;
+    line-height: 1.2em;
 }
 
 b {
-    font-weight: bold;
+    font-weight: 600;
 }
 
 li {
